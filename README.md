@@ -93,6 +93,10 @@ Data preparation transforms raw data into a clean, structured, and usable format
 - `scikit-learn` for preprocessing and pipelines  
 - `DVC` for data versioning and reproducibility  
 
+### Detailed tabular column on subtopics in data preprocessing
+
+![Data Preprocessing Lifecycle](images/data_preprocessing_lifecycle.png)
+
 ---
 
 ## 🏋️‍♂️ 3️⃣ Model Training
